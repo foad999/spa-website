@@ -1,0 +1,37 @@
+
+.shekl{
+    background: rgb(21, 21, 22);
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 20px;
+}
+header{
+    margin: 20px 10px 0px 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(47, 47, 150);
+    background: radial-gradient(circle, rgba(81, 82, 80, 0.808) 11%, rgb(151, 155, 153) 41%, rgb(183, 176, 185) 77%, rgb(255, 250, 253) 100%);
+    display: flex;
+    justify-content: space-between;
+}
+
+.sar{
+    margin: 20px;
+    display: flex;
+}
+
+.bakhsh {
+    color: #143123;
+    transition: all .25s linear;
+    margin: 10px;
+    font-size: 1.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.bakhsh:hover{
+    color: #4d45b9;
+    cursor: pointer;
+}
+
